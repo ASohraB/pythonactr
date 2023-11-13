@@ -170,7 +170,7 @@ def actr():
 		"""
 	    What you can do with Pythonactr:
 	    
-	    * Modeling
+	    * Modeling ASN
 	
 	    """
 	    )
